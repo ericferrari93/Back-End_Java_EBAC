@@ -1,0 +1,21 @@
+Algoritmo em portugol.
+
+1 - Abrir os olhos.
+2 - O despertador está tocando ? sim
+    1 - Desligue.
+3 - Levantar.
+4 - Ir até o banheiro.
+5 - A ports está aberta ? Não
+    1 - Girar a maçaneta da porta em 360 graus.
+6 - Lavar o rosto.
+7 - Pegar a escova de dente.
+8 - Pegar a pasta de dente.
+9 - Colocar pasta de dente na escova de dente.
+10 - Escovar os dentes até quando?
+  1 - Até sentir os dentes limpos.
+11 - Enxaguar a boca.
+12 - Ir até a mesa do escritorio.
+13 - A ports está aberta ? Não
+    1 - Girar a maçaneta da porta em 360 graus.
+14 - O computador está ligado ? Não.
+    1 - Ligar o computador.
